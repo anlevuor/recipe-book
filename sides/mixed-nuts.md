@@ -8,5 +8,5 @@
 
 ## Instructions
 
-- Step 1
+- Mix all nuts
 - Step 2
