@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-Cashew
-Pecan
-
+- Cashew
+- Pecan
+- Peanut
 
 ## Instructions
 
